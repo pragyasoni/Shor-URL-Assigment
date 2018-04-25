@@ -1,5 +1,6 @@
 Download Codigniter frame 3.1.8
 install Xamp for run this assigment.
+craete database  url and database file contain database folder.
 Put data base name,user name and password in config file . this file located in application folder.
 crate url controller class.
 url class contain create_url fuction for genrate url for home page then create short url and display url and submit into dtabase.
